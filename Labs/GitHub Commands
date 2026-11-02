@@ -1,0 +1,13 @@
+mkdir Azure-AI-Foundry-Architect-Labs
+cd Azure-AI-Foundry-Architect-Labs
+
+git init
+
+git add .
+git commit -m "Initial Azure AI Foundry Architect learning plan"
+
+git branch -M main
+
+git remote add origin https://github.com/YOURUSERNAME/Azure-AI-Foundry-Architect-Labs.git
+
+git push -u origin main
