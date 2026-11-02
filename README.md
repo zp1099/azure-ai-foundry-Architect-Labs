@@ -1,6 +1,6 @@
 Azure AI Foundry Architect Learning Lab
 Objective
-Complete Azure AI Foundry architect-level training in 4 weeks while building hands-on solutions and preparing for Microsoft Cloud Solution Architect and AI Solution Architect interviews.
+Complete Azure AI Foundry architect-level training while building hands-on solutions and preparing for Microsoft Cloud Solution Architect and AI Solution Architect interviews.
 
 Progress Tracker
 Week 1 - Foundations
